@@ -56,7 +56,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 is Overwrite architevture, by updating the existing row, with the timestamp to indicate when it was updated. Type 2 is Retain changes by adding new rows, so there are multiple rows per user. 
 ```
 
 ***
@@ -191,5 +191,11 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+Big data and AI might seem fully automated, but they actually depend a lot on human work and human perspectives. Behind the scenes, people are constantly helping to build and train these systems. Even though these jobs are important for making AI accurate, they are often paid very little. It shows that a lot of important digital labour goes unnoticed and undervalued. We can actually see a small version of this in daily life. When a website asks you to click on images or select certain words to prove you are human, it feels like a quick and simple task. But in reality, these actions can help train AI systems. So, in a way, people are sometimes contributing to these technologies without even realizing it, and without getting paid. That can make it feel like users are being used, even if it’s in a small way.
+
+These tasks also show an interesting difference between humans and computers. I learnt before that, for us, recognizing objects or words on a screen is almost instant, we just see and get it. But computers often process things more slowly and mechanically, like scanning across an image inch by inch. What feels easy for humans can be quite difficult for machines. Still, as technology keeps improving, this difference might not be as obvious in the future.
+
+Another big issue with data is bias. Since humans are the ones creating and labeling data, their opinions and perspectives are naturally invovled as well. It’s kind of like trying to describe a color to someone, even if you try your best, you could never guarantee that they imagine the exact same shade. The same thing happens with data. For example, reviews for motorcycle helmets might mostly come from men, which means women’s needs might be overlooked. If companies rely on this kind of data, they might end up designing products that don’t work well for everyone.
+
+On top of that, AI is becoming a bigger part of everyday life, especially with AI-generated contents. It’s getting harder and harder to tell what’s real and what’s not, which increases the risk of scams. Because of this, people need to be more careful and think critically about what they see online. In the end, understanding the bias behind big data helps us see that these systems aren’t as neutral or perfect as they might seem.
 ```

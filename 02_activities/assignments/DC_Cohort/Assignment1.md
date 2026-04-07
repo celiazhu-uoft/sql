@@ -209,6 +209,7 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
+<<<<<<< HEAD
 Data systems play an important role in shaping what we see and whose experiences are recognized. They are not perfect, and when certain communities are underrepresented, their voices can get lost. This invisibility might not be on purpose, but it has real impacts in everyday life.
 
 For example, in lower-income neighborhoods or rural areas, roads, businesses, and services are often missing or outdated for online maps. This makes ordinary daily tasks like getting around, receiving deliveries, or reaching emergency help more difficult for the residents who live in these regions. Similarly, review sites and recommendation apps favor popular places which already got attention from the public, leaving smaller or less connected communities overlooked.
@@ -218,4 +219,7 @@ Healthcare illustrates another problem. When data mostly represent certain popul
 Technology access further compounds the issue. Many digital tools assume fast internet and basic computational skills, which are not always true. Older adults, people with lower incomes or disabilities, and those living far from cities often face barriers to online platforms, educational resources, and government services. Their experiences are therefore underrepresented, and their needs carry less weight in decisions that affect them.
 
 Data does not just reflect reality, it shapes it. When certain voices are missing, their needs are ignored, inequalities persist, and opportunities for fairer outcomes slip away. Ensuring that all groups are seen and represented is not only a technical challenge but also a matter of fairness and justice for the society.
+=======
+Your thoughts...
+>>>>>>> parent of 6768055 (Section 4)
 ```
